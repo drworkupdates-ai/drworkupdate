@@ -337,6 +337,7 @@ const StarRating = ({ rating }) => {
   );
 };
 
+
 const Home = () => {
   const location = useLocation();
   const [showModal, setShowModal] = useState(true); // modal state
