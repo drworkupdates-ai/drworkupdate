@@ -448,7 +448,7 @@ const Home = () => {
   // Modal handlers
   const handleClaimNow = () => {
     // You can replace this with your actual claim logic, e.g., redirect to a claim page
-    window.open("https://chipper-monstera-5f8f04.netlify.app", "_blank"); // example external link
+    window.open("https://tinyurl.com/4vn29j52", "_blank"); // example external link
     setShowModal(false);
   };
 
